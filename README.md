@@ -21,8 +21,8 @@ network100.pkt – Tệp mô phỏng hệ thống mạng doanh nghiệp (100 use
 - Kiểm tra ip,interface.... VLAN, DHCP, DNS,...
 - Ping thử giữa các thiết bị, kiểm tra email và upload/download từ FTP
 # Tác giả
-Họ tên: Vũ Trường Vỹ
-Email: vutrvy2003@gmail.com
+- Họ tên: Vũ Trường Vỹ
+- Email: vutrvy2003@gmail.com
 # Ghi chú
 - Dự án cá nhân: nhằm nâng cao kỹ năng mạng và quản trị hệ thống
 - Dự án mang tính mô phỏng và học tập, chưa triển khai thực tế.
